@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "resonant-triode-170018",
+  "private_key_id": "1884abe98749dc5717db483eda894ca615d3241e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCRk9yE/0voushG\nSMKyMatguO1TmOwqAbbu2V1DJZIy3p/J0uR9aRb0jyiCSwFIUFNYS7yOvlcpXv2y\nejM7cX8Z7hozdsNiCsQDIs8yAagYVBmGl1GXMIlwVZ7h3gHoe7LZBcMYq1JWoGDu\nhyvM1tO1kDcJLLAbe7INaFtu6RRy9UrWNYiqRoTPczgKA6yIbzVcBkTKaGQgVHNh\nVHVBtCMOEQYkL6WCo+apnJ5EjXYmWzCOuiDgb4Zy1qicBepC1EO0ThTVs77G4SIq\n1zPyiyDh6SmUrjmyn5TjIfs3hJctR6AKCLC21slTs7TnKrFt+sEd+vRTDRwMK0YB\nvps/s1J1AgMBAAECggEABg9t+3JmTlSyQCzIwCLNs9vW82c3E6OZIjXVylUO0kPO\nypfXL7pXfIxWHyBwt/oyEgerHJUja0M7U/n+1n9pz2JIYHKV/SeeE9RX5EjJ3uNn\nYaE8ggsA+bZyxAvaL/uwTRUOk2EUbytDhcKGSgN6ckFD7UOZPDeoyKKaxdH5qjRo\nW2KaApaRLzcgJBkEKcgd2qz6bE/yaByh5rLTW9XhZV7eRyERLUR79gR3ti0fLtyd\n4tRXUhjaipvmgHupuiPnDWmaxU04ZNsrQbcOJFx15Hv8O9biM1UQJrvT5DA7fMye\nlT/r1X0IUEc/DFHMzjoBXnsxqRQQLRjTaQ/tzq8+cQKBgQDDTvn/Rjchv1+irdwz\n3eGrOhHMM28wn+YR15PyMcamRHeUEhNNcV7qFNgY/E4FAQKd5aVidBpbZOrq6M/M\nwn6VB/n3oVbeMJJdSChz+RSFWUEhbJPlLQcNK8HKuBrpH/QicLRE6jpsqt2F4xBA\neOLfWi+wAWz5T69zEbpiQFKtcQKBgQC+0Lsu0vyqR26vcrTObNTXBlw9uqpoZQE6\nfvaf8psakVJaZs9BQhItldR5Zho0FefhLilxgmP7FfL0rHahEt3E4cx2Er96O0ii\nyb2cxX5fNE/a8hFFgwOeX2LCFAJgbPqYSIQCkvCAeX4FNQ0s8wv0xGvlT5BNCjlj\ntYDSW2ZDRQKBgQDAZBXkHxjEB65/o+Bcv19Duqo5ixkmvvx16vR0ChBzTNK2a6/U\nA6/Jysqsoi2AxGP9gnCOMWydRyYaTUgVninvSLI1+xqFOTeU6DXhOCW8zhVYhYqS\noO5nTQlTVlQ7/RwSqQ8LK+htj0s0Tl5+BBcIieCb8muUk6hzI62Eh3RqIQKBgQCq\ngReRuqRdf6DvE39uqR7y2NMZsa/Nwtt7KrIzsHRaJBrDfvSZanGV3DlVFSA7BIwD\n0dzkec/fL/i+G1GRkqsp315070G79jdshvpwmKTYa4UjroQyaeSU4sT7iSeqhBbU\ndo/HQQe4tVcfTg1s6ez4FYAYEqVtwcIQT8JBtbxGRQKBgCdY3kGjOox16p1ZmyEP\nqogjNI9HkqQKF4Ef9/7/IGmmzEvcPfy0XsE21IbtTLNbQDoiLfwBqR26wkALkUWm\nxs0It+Xe+BbshaNAQUqVuldqTj0g4VrOub+0wAcdmVw2VohG0T5hyClAtrAmQmyk\nVRlqbfv1DlYOw4qCGwH7W3o0\n-----END PRIVATE KEY-----\n",
+  "client_email": "master@resonant-triode-170018.iam.gserviceaccount.com",
+  "client_id": "111032446752054729849",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/master%40resonant-triode-170018.iam.gserviceaccount.com"
+}
